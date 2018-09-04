@@ -1,0 +1,54 @@
+<CodeBlocks_project_file>
+<FileVersion major="1" minor="6"/>
+<Project>
+<Option title="twa"/>
+<Option pch_mode="2"/>
+<Option compiler="gcc"/>
+<Build>
+<Target title="Debug">
+<Option output="bin/Debug/twa" prefix_auto="1" extension_auto="1"/>
+<Option object_output="obj/Debug/"/>
+<Option type="1"/>
+<Option compiler="gcc"/>
+<Compiler>
+<Add option="-g"/>
+<Add directory="include"/>
+</Compiler>
+</Target>
+<Target title="Release">
+<Option output="bin/Release/twa" prefix_auto="1" extension_auto="1"/>
+<Option object_output="obj/Release/"/>
+<Option type="1"/>
+<Option compiler="gcc"/>
+<Compiler>
+<Add option="-O2"/>
+<Add directory="include"/>
+</Compiler>
+<Linker>
+<Add option="-s"/>
+</Linker>
+</Target>
+</Build>
+<Compiler>
+<Add option="-Wall"/>
+<Add option="-fexceptions"/>
+</Compiler>
+<Unit filename="include/Base.h"/>
+<Unit filename="include/Element.h"/>
+<Unit filename="include/CombinedProfile.h"/>
+<Unit filename="include/Node.h"/>
+<Unit filename="include/Profile.h"/>
+<Unit filename="mainTwaCheck.cpp"/>
+<Unit filename="src/Base.cpp"/>
+<Unit filename="src/Element.cpp"/>
+<Unit filename="src/CombinedProfile.cpp"/>
+<Unit filename="src/Node.cpp"/>
+<Unit filename="src/Profile.cpp"/>
+<Extensions>
+<code_completion/>
+<envvars/>
+<debugger/>
+<lib_finder disable_auto="1"/>
+</Extensions>
+</Project>
+</CodeBlocks_project_file>

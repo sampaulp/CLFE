@@ -1,0 +1,151 @@
+Profile 'I 120 & U 120'
+> element: no = 1, t =     6.30
+> node: no =  1, x =    -124.00, y =     113.70
+> node: no =  2, x =     -92.00, y =     113.70
+  Length, 	 	 	 	 L:       32.000 mm
+  Area, 	 	 	 	 A:      201.600 mm^2
+  Static Moment, 	 	 	 Sx:    22921.920 mm^3 Sy:   -21772.800 mm^3
+  Area Moment of Inertia of the element, Ixx :  2606222.304 mm^4 Iyy: 2368665.600 mm^4 Ixy:-2475567.360 mm^4
+> element: no = 2, t =     6.30
+> node: no =  2, x =     -92.00, y =     113.70
+> node: no =  3, x =     -60.00, y =     113.70
+  Length, 	 	 	 	 L:       32.000 mm
+  Area, 	 	 	 	 A:      201.600 mm^2
+  Static Moment, 	 	 	 Sx:    22921.920 mm^3 Sy:   -15321.600 mm^3
+  Area Moment of Inertia of the element, Ixx :  2606222.304 mm^4 Iyy: 1181644.800 mm^4 Ixy:-1742065.920 mm^4
+> element: no = 3, t =     6.30
+> node: no =  4, x =    -124.00, y =       0.00
+> node: no =  5, x =     -92.00, y =       0.00
+  Length, 	 	 	 	 L:       32.000 mm
+  Area, 	 	 	 	 A:      201.600 mm^2
+  Static Moment, 	 	 	 Sx:        0.000 mm^3 Sy:   -21772.800 mm^3
+  Area Moment of Inertia of the element, Ixx :        0.000 mm^4 Iyy: 2368665.600 mm^4 Ixy:       0.000 mm^4
+> element: no = 4, t =     6.30
+> node: no =  5, x =     -92.00, y =       0.00
+> node: no =  6, x =     -60.00, y =       0.00
+  Length, 	 	 	 	 L:       32.000 mm
+  Area, 	 	 	 	 A:      201.600 mm^2
+  Static Moment, 	 	 	 Sx:        0.000 mm^3 Sy:   -15321.600 mm^3
+  Area Moment of Inertia of the element, Ixx :        0.000 mm^4 Iyy: 1181644.800 mm^4 Ixy:       0.000 mm^4
+> element: no = 5, t =     4.40
+> node: no =  2, x =     -92.00, y =     113.70
+> node: no =  5, x =     -92.00, y =       0.00
+  Length, 	 	 	 	 L:      113.700 mm
+  Area, 	 	 	 	 A:      500.280 mm^2
+  Static Moment, 	 	 	 Sx:    28440.918 mm^3 Sy:   -46025.760 mm^3
+  Area Moment of Inertia of the element, Ixx :  2155821.584 mm^4 Iyy: 4234369.920 mm^4 Ixy:-2616564.456 mm^4
+> element: no = 6, t =     7.00
+> node: no =  3, x =     -60.00, y =     113.70
+> node: no =  8, x =      -3.50, y =     113.70
+  Length, 	 	 	 	 L:       56.500 mm
+  Area, 	 	 	 	 A:      395.500 mm^2
+  Static Moment, 	 	 	 Sx:    44968.350 mm^3 Sy:   -12557.125 mm^3
+  Area Moment of Inertia of the element, Ixx :  5112901.395 mm^4 Iyy:  503899.958 mm^4 Ixy:-1427745.113 mm^4
+> element: no = 7, t =     7.00
+> node: no =  7, x =      -3.50, y =     143.70
+> node: no =  8, x =      -3.50, y =     113.70
+  Length, 	 	 	 	 L:       30.000 mm
+  Area, 	 	 	 	 A:      210.000 mm^2
+  Static Moment, 	 	 	 Sx:    27027.000 mm^3 Sy:     -735.000 mm^3
+  Area Moment of Inertia of the element, Ixx :  3494124.900 mm^4 Iyy:    2572.500 mm^4 Ixy:  -94594.500 mm^4
+> element: no = 8, t =     7.00
+> node: no =  8, x =      -3.50, y =     113.70
+> node: no =  9, x =      -3.50, y =      83.70
+  Length, 	 	 	 	 L:       30.000 mm
+  Area, 	 	 	 	 A:      210.000 mm^2
+  Static Moment, 	 	 	 Sx:    20727.000 mm^3 Sy:     -735.000 mm^3
+  Area Moment of Inertia of the element, Ixx :  2061504.900 mm^4 Iyy:    2572.500 mm^4 Ixy:  -72544.500 mm^4
+> element: no = 9, t =     7.00
+> node: no = 10, x =       3.50, y =     143.70
+> node: no = 11, x =       3.50, y =     113.70
+  Length, 	 	 	 	 L:       30.000 mm
+  Area, 	 	 	 	 A:      210.000 mm^2
+  Static Moment, 	 	 	 Sx:    27027.000 mm^3 Sy:      735.000 mm^3
+  Area Moment of Inertia of the element, Ixx :  3494124.900 mm^4 Iyy:    2572.500 mm^4 Ixy:   94594.500 mm^4
+> element: no =10, t =     7.00
+> node: no = 11, x =       3.50, y =     113.70
+> node: no = 12, x =       3.50, y =      83.70
+  Length, 	 	 	 	 L:       30.000 mm
+  Area, 	 	 	 	 A:      210.000 mm^2
+  Static Moment, 	 	 	 Sx:    20727.000 mm^3 Sy:      735.000 mm^3
+  Area Moment of Inertia of the element, Ixx :  2061504.900 mm^4 Iyy:    2572.500 mm^4 Ixy:   72544.500 mm^4
+> element: no =11, t =     7.00
+> node: no = 11, x =       3.50, y =     113.70
+> node: no = 13, x =      60.00, y =     113.70
+  Length, 	 	 	 	 L:       56.500 mm
+  Area, 	 	 	 	 A:      395.500 mm^2
+  Static Moment, 	 	 	 Sx:    44968.350 mm^3 Sy:    12557.125 mm^3
+  Area Moment of Inertia of the element, Ixx :  5112901.395 mm^4 Iyy:  503899.958 mm^4 Ixy: 1427745.113 mm^4
+> element: no =12, t =     6.30
+> node: no = 13, x =      60.00, y =     113.70
+> node: no = 14, x =      92.00, y =     113.70
+  Length, 	 	 	 	 L:       32.000 mm
+  Area, 	 	 	 	 A:      201.600 mm^2
+  Static Moment, 	 	 	 Sx:    22921.920 mm^3 Sy:    15321.600 mm^3
+  Area Moment of Inertia of the element, Ixx :  2606222.304 mm^4 Iyy: 1181644.800 mm^4 Ixy: 1742065.920 mm^4
+> element: no =13, t =     6.30
+> node: no = 14, x =      92.00, y =     113.70
+> node: no = 15, x =     124.00, y =     113.70
+  Length, 	 	 	 	 L:       32.000 mm
+  Area, 	 	 	 	 A:      201.600 mm^2
+  Static Moment, 	 	 	 Sx:    22921.920 mm^3 Sy:    21772.800 mm^3
+  Area Moment of Inertia of the element, Ixx :  2606222.304 mm^4 Iyy: 2368665.600 mm^4 Ixy: 2475567.360 mm^4
+> element: no =14, t =     6.30
+> node: no = 16, x =      60.00, y =       0.00
+> node: no = 17, x =      92.00, y =       0.00
+  Length, 	 	 	 	 L:       32.000 mm
+  Area, 	 	 	 	 A:      201.600 mm^2
+  Static Moment, 	 	 	 Sx:        0.000 mm^3 Sy:    15321.600 mm^3
+  Area Moment of Inertia of the element, Ixx :        0.000 mm^4 Iyy: 1181644.800 mm^4 Ixy:       0.000 mm^4
+> element: no =15, t =     6.30
+> node: no = 17, x =      92.00, y =       0.00
+> node: no = 18, x =     124.00, y =       0.00
+  Length, 	 	 	 	 L:       32.000 mm
+  Area, 	 	 	 	 A:      201.600 mm^2
+  Static Moment, 	 	 	 Sx:        0.000 mm^3 Sy:    21772.800 mm^3
+  Area Moment of Inertia of the element, Ixx :        0.000 mm^4 Iyy: 2368665.600 mm^4 Ixy:       0.000 mm^4
+> element: no =16, t =     4.40
+> node: no = 14, x =      92.00, y =     113.70
+> node: no = 17, x =      92.00, y =       0.00
+  Length, 	 	 	 	 L:      113.700 mm
+  Area, 	 	 	 	 A:      500.280 mm^2
+  Static Moment, 	 	 	 Sx:    28440.918 mm^3 Sy:    46025.760 mm^3
+  Area Moment of Inertia of the element, Ixx :  2155821.584 mm^4 Iyy: 4234369.920 mm^4 Ixy: 2616564.456 mm^4
+> element: no =17, t =     6.30
+> node: no =  6, x =     -60.00, y =       0.00
+> node: no = 16, x =      60.00, y =       0.00
+  Length, 	 	 	 	 L:      120.000 mm
+  Area, 	 	 	 	 A:      756.000 mm^2
+  Static Moment, 	 	 	 Sx:        0.000 mm^3 Sy:        0.000 mm^3
+  Area Moment of Inertia of the element, Ixx :        0.000 mm^4 Iyy:  907200.000 mm^4 Ixy:       0.000 mm^4
+------------
+Result Data:
+------------
+------------------
+ Total Area (cm^2):
+------------------
+	A =        50.00 
+----------------------
+ Static Moments (cm^3):
+----------------------
+	Sx=      334.01 , Sy=        0.00 
+---------------
+ Centroid (cm):
+---------------
+	Xc=        0.00 , Yc=        6.68 
+----------------------------------------------
+ Moment of Interia in User Co-ordinates (cm^4):
+----------------------------------------------
+	Ixxu=     3607.36 , Iyyu=     2459.53 , Ixyu=        0.00 
+--------------------------------------------------------
+ Moment of Interia in Center of Mass Co-ordinates (cm^4):
+--------------------------------------------------------
+	Ixxc=     1376.21 , Iyyc=     2459.53 , Ixyc=       -0.00 
+------------------------------------------
+ Moment of Interia Principle Values (cm^4):
+------------------------------------------
+	Ip1=     2459.53 , Ip2=     1376.21 
+----------------------
+ Rotation angle (deg):
+----------------------
+	Alpha=      -90.00
