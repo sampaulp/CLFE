@@ -1,0 +1,7 @@
+50              ! max number of roots to be found
+-10.            ! lower bound : lb
+10.             ! upper bound : ub
+0.05            ! step width   : sw
+1.e-7           ! precision :eps
+1.e-2           ! stepwidth h
+100             ! max iteration : ix
